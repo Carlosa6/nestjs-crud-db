@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Temas:
+Programación Modular, Documentación con Swagger y Deploy
 
 ## Installation
 
